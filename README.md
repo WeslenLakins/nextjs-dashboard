@@ -6,6 +6,12 @@ This project is a comprehensive dashboard built with Next.js, showcasing best pr
 
 What makes this project a remix? It's a modern take on the original [Next.js Dashboard](https://nextjs.org/learn/dashboard-app/getting-started) project, with a fresh design and additional features such as user authentication, CRUD operations, and SEO optimization.
 
+## Under Construction
+
+- [ ] Add OAuth Sign Up and Sign In
+- [ ] Build Customers Page
+- [ ] Build Blog Page
+
 ## Features
 
 - **Dynamic Dashboard**: Interactive and dynamic data visualization.
